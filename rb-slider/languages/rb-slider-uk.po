@@ -1,0 +1,114 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: RB Slider v2.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2023-01-05 20:22+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class.rb-slider-settings.php:19
+msgid "How does it work?"
+msgstr "Як це працює?"
+
+#: class.rb-slider-settings.php:26
+msgid "Other Plugin Options"
+msgstr "Інші параметри плагіна"
+
+#: class.rb-slider-settings.php:33
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: class.rb-slider-settings.php:41
+msgid "Slider Title"
+msgstr "Заголовок слайдерa"
+
+#: class.rb-slider-settings.php:52
+msgid "Display Bullets"
+msgstr "Показати маркери"
+
+#: class.rb-slider-settings.php:63
+msgid "Slider Style"
+msgstr "Стилi слайдерa"
+
+#: class.rb-slider-settings.php:80
+msgid "Use the shortcode [rb_slider] to display the slider in any page/post/widget"
+msgstr "Використовуйте шорткод [rb_slider] для відображення слайдера на будь-якій сторінці/пості/віджеті"
+
+#: class.rb-slider-settings.php:108
+msgid "Whether to display bullets or not"
+msgstr "Показувати маркери чи ні"
+
+#: class.rb-slider-settings.php:139
+msgid "The title field can not be left empty"
+msgstr "Поле заголовка не можна залишати порожнім"
+
+#: class.rb-slider-settings.php:140
+msgid "Please, type some text"
+msgstr "Будь ласка, введіть текст"
+
+#: post-types/class.rb-slider-cpt.php:18 post-types/class.rb-slider-cpt.php:22
+msgid "Slider"
+msgstr "Слайдер"
+
+#: post-types/class.rb-slider-cpt.php:19 post-types/class.rb-slider-cpt.php:21
+msgid "Sliders"
+msgstr "Слайдер"
+
+#: post-types/class.rb-slider-cpt.php:44 views/rb-slider_metabox.php:11
+msgid "Link Text"
+msgstr "Текст посилання"
+
+#: post-types/class.rb-slider-cpt.php:45 views/rb-slider_metabox.php:26
+msgid "Link URL"
+msgstr "URL- адреса посилання"
+
+#: post-types/class.rb-slider-cpt.php:68
+msgid "Link Options"
+msgstr "Параметри посилання"
+
+#: post-types/class.rb-slider-cpt.php:106
+msgid "Add some text"
+msgstr "Додайте текст"
+
+#: rb-slider.php:100
+msgid "RB Slider Options"
+msgstr "Параметри слайдерa"
+
+#: rb-slider.php:110 rb-slider.php:111
+msgid "Manage Slides"
+msgstr "Керування слайдами"
+
+#: rb-slider.php:120 rb-slider.php:121
+msgid "Add New Slide"
+msgstr "Додати новий слайд"
+
+#: rb-slider.php:136
+msgid "Settings Saved"
+msgstr "Налаштування збережено"
+
+#: views/settings-page.php:7
+msgid "Main Options"
+msgstr "Основні параметри"
+
+#: views/settings-page.php:8
+msgid "Additional Options"
+msgstr "Додаткові параметри"
+
+#: views/settings-page.php:19
+msgid "Save Settings"
+msgstr "Зберегти налаштування"
