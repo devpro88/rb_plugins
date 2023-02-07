@@ -1,0 +1,44 @@
+.single-rb-announcements .meta{
+    margin-bottom: 25px;
+}
+.single-rb-announcements .meta span{
+    display: block;
+}
+.single-rb-announcements .meta span a{
+    text-decoration: underline;
+    margin: 0 5px 0 0;
+}
+
+.single-rb-announcements .announcement-item .wp-block-group{
+    margin-bottom: 30px;
+}
+
+.single-rb-announcements .announcement-item .wp-block-quote {
+    border-left: 4px solid #000 !important;
+    padding: 20px !important;
+    background-color: #f5f5f5;
+}
+
+.single-rb-announcements .video iframe{
+    width: 560px !important;
+    height: 350px !important;
+}
+
+.has-sale:empty {
+    display: none;
+}
+
+.has-sale p {
+    font-style: italic;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.has-sale p:nth-child(3n + 1) {
+    font-weight: bold;
+    margin-left: 0;
+}
+
+.has-sale p:nth-child(3n) {
+    color: red;
+}

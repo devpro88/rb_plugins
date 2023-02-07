@@ -1,0 +1,269 @@
+# Blank WordPress Pot
+# Copyright 2023 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: RB "
+"Announcements v1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<announcements@example."
+"com>\n"
+"POT-Creation-Date: "
+"2023-01-19 18:45+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your "
+"Name <you@example.com>\n"
+"Language-Team: Your Team "
+"<announcements@example."
+"com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-"
+"Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; "
+"plural=n != 1;\n"
+"X-Textdomain-Support: "
+"yesX-Generator: Poedit "
+"1.6.4\n"
+"X-Poedit-SourceCharset: "
+"UTF-8\n"
+"X-Poedit-KeywordsList: __;"
+"_e;esc_html_e;"
+"esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;"
+"esc_attr__;_ex:1,2c;"
+"_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;"
+"_n:1,2;_n_noop:1,2;"
+"__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit "
+"3.2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions/functions.php:22
+msgid ""
+"Required form field is "
+"missing"
+msgstr ""
+
+#: functions/functions.php:26
+msgid ""
+"Username too short. At "
+"least 6 characters is "
+"required"
+msgstr ""
+
+#: functions/functions.php:30
+msgid "Invalid credentials"
+msgstr ""
+
+#: functions/functions.php:34
+msgid ""
+"The username you entered "
+"is not valid!"
+msgstr ""
+
+#: functions/functions.php:38
+msgid "Email is not valid"
+msgstr ""
+
+#: functions/functions.php:42
+msgid "Email already exists"
+msgstr ""
+
+#: functions/functions.php:46
+msgid ""
+"Password length must be "
+"greater than 5"
+msgstr ""
+
+#: functions/functions.php:73
+msgid "Create your account"
+msgstr ""
+
+#: functions/functions.php:75
+msgid "Username"
+msgstr ""
+
+#: functions/functions.php:77
+msgid "First Name"
+msgstr ""
+
+#: functions/functions.php:79
+msgid "Last Name"
+msgstr ""
+
+#: functions/functions.php:81
+msgid "Email address"
+msgstr ""
+
+#: functions/functions.php:83
+msgid "Password"
+msgstr ""
+
+#: functions/functions.php:85
+msgid "Sign Up"
+msgstr ""
+
+#: functions/functions.php:90
+msgid "Or login"
+msgstr ""
+
+#: rb-announcements.php:114
+msgid "Submit Announcements"
+msgstr ""
+
+#: rb-announcements.php:129
+msgid "Edit Announcement"
+msgstr ""
+
+#: post-types/class.rb-announcements-cpt.php:22
+#: post-types/class.rb-announcements-cpt.php:26
+msgid "Announcement"
+msgstr ""
+
+#: post-types/class.rb-announcements-cpt.php:23
+#: post-types/class.rb-announcements-cpt.php:25
+msgid "Announcements"
+msgstr ""
+
+#: post-types/class.rb-announcements-cpt.php:53
+msgid "Products"
+msgstr ""
+
+#: post-types/class.rb-announcements-cpt.php:54
+#: views/rb-announcements_edit_shortcode.php:93
+#: views/rb-announcements_shortcode.php:77
+#: views/templates/single-rb-announcements.php:32
+msgid "Product"
+msgstr ""
+
+#: post-types/class.rb-announcements-cpt.php:78
+msgid ""
+"Announcements Options"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:25
+#: views/rb-announcements_shortcode.php:25
+msgid ""
+"Please, enter a title"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:30
+#: views/rb-announcements_shortcode.php:30
+msgid ""
+"Please, enter some content"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:35
+#: views/rb-announcements_shortcode.php:35
+msgid ""
+"Please, enter some product"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:76
+msgid "Edit announcement"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:90
+#: views/rb-announcements_shortcode.php:74
+#: views/rb-announcements_shortcode.php:132
+msgid "Title"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:103
+#: views/rb-announcements_metabox.php:22
+#: views/rb-announcements_shortcode.php:91
+msgid "Has sale?"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:105
+#: views/rb-announcements_metabox.php:26
+#: views/rb-announcements_shortcode.php:93
+#: views/rb-announcements_shortcode.php:144
+msgid "Yes"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:106
+#: views/rb-announcements_metabox.php:27
+#: views/rb-announcements_shortcode.php:94
+#: views/rb-announcements_shortcode.php:144
+msgid "No"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:108
+#: views/rb-announcements_metabox.php:33
+#: views/rb-announcements_shortcode.php:96
+msgid "Video URL"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:116
+#: views/rb-announcements_shortcode.php:104
+msgid "Submit"
+msgstr ""
+
+#: views/rb-announcements_edit_shortcode.php:119
+msgid ""
+"Back to announcements list"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:60
+msgid ""
+"Submit new announcement"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:128
+msgid "Your Announcements"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:131
+msgid "Date"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:133
+msgid "Sale"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:134
+msgid "Edit?"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:135
+msgid "Delete?"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:136
+msgid "Status"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:146
+msgid "Edit"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:147
+msgid "Delete"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:148
+msgid "Published"
+msgstr ""
+
+#: views/rb-announcements_shortcode.php:148
+msgid "Pending"
+msgstr ""
+
+#: views/templates/single-rb-announcements.php:37
+msgid "Author"
+msgstr ""
+
+#: views/templates/single-rb-announcements.php:40
+msgid "Published on"
+msgstr ""
